@@ -212,7 +212,7 @@ Here is a breakdown of what a typical build system looks like (I'll use a node b
 
 ```
 {   
-  "cmd": ["/usr/bin/nodejs", "$file"],   
+  "cmd": ["/usr/bin/node", "$file"],   
   "selector": "source.js"   
 }
 ```
