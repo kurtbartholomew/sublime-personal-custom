@@ -1,0 +1,22 @@
+[
+  {
+    "keys": ["alt+;"],
+    "command": "run_macro_file",
+    "args": {"file": "Packages/User/semiEnder.sublime-macro"}
+  },
+  { 
+    "keys": ["ctrl+up"], 
+    "command": "move", 
+    "args": {"by": "stops", "empty_line": true, "forward": false} 
+  },
+  { 
+    "keys": ["ctrl+down"], 
+    "command": "move", 
+    "args": {"by": "stops", "empty_line": true, "forward": true} 
+  },
+  {
+    "keys": ["ctrl+shift+9"],
+    "command": "run_macro_file",
+    "args": {"file": "Packages/User/enclosedBraces.sublime-macro"}
+  }
+]

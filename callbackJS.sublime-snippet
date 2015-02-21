@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:functionName}(function(${2:arguments}) {
+	${3}
+});
+]]></content>
+	<tabTrigger>cb</tabTrigger>
+	<scope>source.js</scope>
+	<description>callback function</description>
+</snippet>

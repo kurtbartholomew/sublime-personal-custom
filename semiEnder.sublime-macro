@@ -1,0 +1,6 @@
+[
+    { "command": "set_mark" },
+    { "command": "move_to", "args": {"to": "eol"} },
+    { "command": "insert_snippet", "args": {"contents": "${TM_LINE_TERMINATOR:;}"} },
+    { "command": "swap_with_mark" }
+]
