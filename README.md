@@ -130,7 +130,7 @@ Macros are exceedingly useful if you would like to create a way to easily reprod
 
 To create a macro, start recording your actions by going to [Tools] -> [Record Macro] or using `ctrl+alt+q`. After you have finished recording your actions, choose [Tools] -> [Stop Recording Macro] or press `ctrl+alt+q` again. Now you have the option to go to [Tools] -> and [Save Macro]. (no keyboard shortcut).
 
-A simple keyboard shortcut might look like this:
+A simple macro might look like this:
 ```
 [
     {"command": "move_to", "args": {"to": "hardeol"}},
