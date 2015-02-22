@@ -40,7 +40,7 @@ Once you have located Sublime's `Packages/User` folder, clone down your repo usi
 
 After you've cloned down your repo, clean up that messy .git folder:
   - On Linux/Mac: `rm -rf .git`
-  - On Windows: (*Not sure, if anyone can help, feel free to email me*)
+  - On Windows: `RMDIR /s .git`
 
 
 ### Package Control.sublime-settings ###
